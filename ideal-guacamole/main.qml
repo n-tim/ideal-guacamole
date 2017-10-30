@@ -7,7 +7,7 @@ ApplicationWindow {
     height: 480
 
     Label {
-        text: qsTr("Hello world")
+        text: qsTr("halestorm")
         anchors.centerIn: parent
     }
 }
